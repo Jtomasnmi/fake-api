@@ -1,1 +1,16 @@
-
+{
+  account: [
+    {
+      id: 1,
+      name: "NMI",
+      date_created: "January 10, 2026",
+      landline: "8428-0434"
+    },
+    {
+      id: 2,
+      name: "Eagle Cement Corp.",
+      date_created: "October 12, 2025",
+      landline: "8534-0134"
+    },
+  ]
+}
