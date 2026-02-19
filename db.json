@@ -1,19 +1,4 @@
 {
-  "account": [
-    {
-      "id": 1,
-      "company_name": "NMI",
-      "date_created": "January 10, 2026",
-      "landline": "8428-0434"
-    },
-    {
-      "id": 2,
-      "company_name": "Eagle Cement Corp.",
-      "date_created": "October 12, 2025",
-      "landline": "8534-0134"
-    }
-  ],
-
    "task": [
     {
       "id": 1,
