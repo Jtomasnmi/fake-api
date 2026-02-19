@@ -12,5 +12,20 @@
       "date_created": "October 12, 2025",
       "landline": "8534-0134"
     }
+  ],
+
+   "task": [
+    {
+      "id": 1,
+      "title": "try this shit",
+      "date_created": "January 10, 2026",
+      "isDone": true
+    },
+      {
+      "id": 2,
+      "title": "then go shit",
+      "date_created": "January 10, 2026",
+      "isDone": true
+    },
   ]
 }
